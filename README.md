@@ -1,0 +1,1 @@
+App creates it's own database when you run it. Don't use non-English characters to not have an Unicode error while exporting as PDF. Source code is in front of you, you can change it like however you want.
